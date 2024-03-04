@@ -1,3 +1,3 @@
-module github.com/tmieulet/xk6-cognito
+module github.com/OS-joaomatos/xk6-cognito
 
 go 1.17
